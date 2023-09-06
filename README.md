@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**VennelaReddyBaddam/VennelaReddyBaddam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**VennelaReddyBaddam/VennelaReddyBaddam** is a ✨ _special_ ✨ girl with innovative thoughts and habits.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on Java
 - 🌱 I’m currently learning javascript
